@@ -1,0 +1,41 @@
+insert ignore into doctor_list values
+(
+	'wuxinke',
+    1,
+    'wuxinke',
+    'abcde',
+    '1998-02-25',
+    '2019-03-21',
+    '15857139873',
+    'bornew@foxmail.com'
+),
+(
+	'caoanqi',
+    0,
+    'caoanqi',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    '15857139870',
+    'caoanqi@foxmail.com'
+),
+(
+	'wuqiuning',
+    0,
+    'wuqiuning',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    '15857139870',
+    'wuqiuning@foxmail.com'
+),
+(
+	'gaoxiaoguo',
+    1,
+    'gaoxiaoguo',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    '15857139870',
+    'gaoxiaoguo@foxmail.com'
+);

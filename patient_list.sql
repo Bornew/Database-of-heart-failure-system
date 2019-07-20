@@ -1,0 +1,62 @@
+insert ignore into patient_list values
+(
+	'licanchen',
+    1,
+	'licanchen',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    'wuxinke',
+    '15857139870',
+    'licanchen@163.com',
+    'B'
+),
+(
+	'lixiaowei',
+    1,
+	'lixiaowei',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    'wuxinke',
+    '15857139870',
+    'lixiaowei@163.com',
+    'A'
+),
+(
+	'zhangmingyu',
+    0,
+	'zhangmingyu',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    'wuxinke',
+    '15857139870',
+    'zhangmingyu@163.com',
+    'A'
+),
+(
+	'liuguoyu',
+    0,
+	'liuguoyu',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    'wuxinke',
+    '15857139870',
+    'liuguoyu@163.com',
+    'A'
+),
+(
+	'zhangnan',
+    0,
+	'zhangnan',
+    'abcde',
+    '1998-04-28',
+    '2019-03-21',
+    'wuxinke',
+    '15857139870',
+    'zhangnan@163.com',
+    'D'
+)
+;
